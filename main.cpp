@@ -5,10 +5,8 @@ using namespace std;
 
 int main()
 {
-    string hello{"Hello World"};
+    cout << "Hello Word this is someones account !" << endl;
 
-    cout << hello << endl;
-
-    cout << "hi";
-    return 0;
+    cout << 2 + 4 << endl;
+    
 }
